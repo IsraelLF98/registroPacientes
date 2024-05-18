@@ -9,3 +9,26 @@ footer{
 h3{
     font-size: 15px;
 }
+
+.titulo{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.main-container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+#tabla-pacientes-container{
+    padding: 2px;
+}
+#tabla-pacientes{
+    width: 100%;
+    padding: 10px;
+    border-collapse: collapse;
+    #tabla-pacientes tr,th,td{
+        border: 1px solid black;
+    }
+}
