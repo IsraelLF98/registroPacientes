@@ -1,17 +1,17 @@
 .contenedor{
-    background-color: black;
+    background-color: #31D2F2;
     height: 60px;
 }
 footer{
     height: 200px;
-    background-color: black;
+    background-color: #31D2F2;
 }
 h3{
     font-size: 15px;
 }
 
 .titulo{
-    background-color: black;
+    background-color: #31D2F2;
     color: white;
     text-align: center;
 }
